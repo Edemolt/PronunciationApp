@@ -1,0 +1,1 @@
+Radicals may appear in any position in a character.

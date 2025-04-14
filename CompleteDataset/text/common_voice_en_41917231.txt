@@ -1,0 +1,1 @@
+Environment variables are a facility provided by some operating systems.

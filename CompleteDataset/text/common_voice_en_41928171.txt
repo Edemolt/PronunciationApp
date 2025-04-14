@@ -1,0 +1,1 @@
+These circuits are very frequently fed from transformers, and have significant resistance.

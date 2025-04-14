@@ -1,0 +1,1 @@
+To deal with this, Unicode provides the mechanism of canonical equivalence.

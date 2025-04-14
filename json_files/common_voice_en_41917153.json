@@ -1,0 +1,271 @@
+{
+  "transcript": "As players do well, the player character's composure meeting increases.",
+  "words": [
+    {
+      "alignedWord": "as",
+      "case": "success",
+      "end": 2.44,
+      "endOffset": 2,
+      "phones": [
+        {
+          "duration": 0.11,
+          "phone": "ae_B"
+        },
+        {
+          "duration": 0.12,
+          "phone": "z_E"
+        }
+      ],
+      "start": 2.21,
+      "startOffset": 0,
+      "word": "As"
+    },
+    {
+      "alignedWord": "players",
+      "case": "success",
+      "end": 2.92,
+      "endOffset": 10,
+      "phones": [
+        {
+          "duration": 0.07,
+          "phone": "p_B"
+        },
+        {
+          "duration": 0.07,
+          "phone": "l_I"
+        },
+        {
+          "duration": 0.17,
+          "phone": "ey_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "er_I"
+        },
+        {
+          "duration": 0.11,
+          "phone": "z_E"
+        }
+      ],
+      "start": 2.44,
+      "startOffset": 3,
+      "word": "players"
+    },
+    {
+      "alignedWord": "do",
+      "case": "success",
+      "end": 3.21,
+      "endOffset": 13,
+      "phones": [
+        {
+          "duration": 0.07,
+          "phone": "d_B"
+        },
+        {
+          "duration": 0.17,
+          "phone": "uw_E"
+        }
+      ],
+      "start": 2.97,
+      "startOffset": 11,
+      "word": "do"
+    },
+    {
+      "alignedWord": "well",
+      "case": "success",
+      "end": 3.57,
+      "endOffset": 18,
+      "phones": [
+        {
+          "duration": 0.08,
+          "phone": "w_B"
+        },
+        {
+          "duration": 0.15,
+          "phone": "eh_I"
+        },
+        {
+          "duration": 0.13,
+          "phone": "l_E"
+        }
+      ],
+      "start": 3.21,
+      "startOffset": 14,
+      "word": "well"
+    },
+    {
+      "alignedWord": "the",
+      "case": "success",
+      "end": 4.220000000000001,
+      "endOffset": 23,
+      "phones": [
+        {
+          "duration": 0.07,
+          "phone": "dh_B"
+        },
+        {
+          "duration": 0.04,
+          "phone": "ah_E"
+        }
+      ],
+      "start": 4.11,
+      "startOffset": 20,
+      "word": "the"
+    },
+    {
+      "alignedWord": "player",
+      "case": "success",
+      "end": 4.58,
+      "endOffset": 30,
+      "phones": [
+        {
+          "duration": 0.08,
+          "phone": "p_B"
+        },
+        {
+          "duration": 0.07,
+          "phone": "l_I"
+        },
+        {
+          "duration": 0.13,
+          "phone": "ey_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "er_E"
+        }
+      ],
+      "start": 4.22,
+      "startOffset": 24,
+      "word": "player"
+    },
+    {
+      "alignedWord": "character's",
+      "case": "success",
+      "end": 4.95,
+      "endOffset": 42,
+      "phones": [
+        {
+          "duration": 0.06,
+          "phone": "k_B"
+        },
+        {
+          "duration": 0.06,
+          "phone": "eh_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "r_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.02,
+          "phone": "k_I"
+        },
+        {
+          "duration": 0.03,
+          "phone": "t_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "er_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "z_E"
+        }
+      ],
+      "start": 4.58,
+      "startOffset": 31,
+      "word": "character's"
+    },
+    {
+      "alignedWord": "composure",
+      "case": "success",
+      "end": 5.68,
+      "endOffset": 52,
+      "phones": [
+        {
+          "duration": 0.08,
+          "phone": "k_B"
+        },
+        {
+          "duration": 0.09,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "m_I"
+        },
+        {
+          "duration": 0.04,
+          "phone": "p_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "ow_I"
+        },
+        {
+          "duration": 0.12,
+          "phone": "zh_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "er_E"
+        }
+      ],
+      "start": 5.14,
+      "startOffset": 43,
+      "word": "composure"
+    },
+    {
+      "alignedWord": "meeting",
+      "case": "success",
+      "end": 5.83,
+      "endOffset": 60,
+      "phones": [
+        {
+          "duration": 0.01,
+          "phone": "m_B"
+        },
+        {
+          "duration": 0.01,
+          "phone": "iy_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "t_I"
+        },
+        {
+          "duration": 0.01,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.11,
+          "phone": "ng_E"
+        }
+      ],
+      "start": 5.68,
+      "startOffset": 53,
+      "word": "meeting"
+    },
+    {
+      "alignedWord": "increases",
+      "case": "success",
+      "end": 11.46,
+      "endOffset": 70,
+      "phones": [
+        {
+          "duration": 5.63,
+          "phone": "sil"
+        }
+      ],
+      "start": 5.83,
+      "startOffset": 61,
+      "word": "increases"
+    }
+  ]
+}

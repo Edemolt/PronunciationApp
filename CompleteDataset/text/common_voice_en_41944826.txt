@@ -1,0 +1,1 @@
+Sharity-Light runs in user space rather than kernel space.

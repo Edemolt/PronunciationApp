@@ -1,0 +1,1 @@
+Depending on certain player actions in Symphony, the player will receive different endings.

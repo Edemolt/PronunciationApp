@@ -1,0 +1,1 @@
+An example of a safe-life component is the helicopter rotor blade.
