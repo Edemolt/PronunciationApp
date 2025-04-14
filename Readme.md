@@ -52,7 +52,7 @@ Jinja2==3.1.2
 
 ## Workflow
 
-1. **Add MP3 files** to `useful_clips` directory
+1. **Add MP3 files** to `useful clips` directory
 2. **Convert to WAV**:
 ```bash
 python mp3-2-wav.py
@@ -91,6 +91,10 @@ streamlit run app.py
 2. Speak clearly during recording attempts
 3. Review phonetic transcriptions for difficult words
 4. Regular practice sessions yield best results
+5. for dataset, we have used common voice dataset from Mozilla:
+    https://commonvoice.mozilla.org/en/datasets
+    common voice segment 21.0
+6. processed data along with corresponding texts in txt file is present in Complete   Dataset folder
 
 ## Clean Up
 When finished working:
